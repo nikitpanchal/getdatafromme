@@ -1,0 +1,985 @@
+ 
+[
+    {
+        "_id" : "Trichoz",
+        "data" : [ 
+            {
+                "_date" : "Dec - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Ampilox CV",
+        "data" : [ 
+            {
+                "_date" : "Apr - 2020",
+                "cnt" : 5.0
+            }, 
+            {
+                "_date" : "May - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Levipride",
+        "data" : [ 
+            {
+                "_date" : "Oct - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Dec - 2020",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "Sept - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Aug - 2020",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Sept - 2021",
+                "cnt" : 3.0
+            }
+        ]
+    },
+    {
+        "_id" : "Seder-om",
+        "data" : [ 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Aug - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Goldcal Cap",
+        "data" : [ 
+            {
+                "_date" : "Dec - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Aug - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 5.0
+            }
+        ]
+    },
+    {
+        "_id" : "Alfa alfa Q",
+        "data" : [ 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Dec - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "neem",
+        "data" : [ 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Zental ",
+        "data" : [ 
+            {
+                "_date" : "Oct - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Sept - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Aug - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "July - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "June - 2021",
+                "cnt" : 5.0
+            }, 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Oct - 2020",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "May - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Dec - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Jan - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "June - 2020",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Feb - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Ect",
+        "data" : [ 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 2.0
+            }
+        ]
+    },
+    {
+        "_id" : "COMBIMIST -L",
+        "data" : [ 
+            {
+                "_date" : "Apr - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "May - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Sept - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Aug - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Thyronorm / thyrox",
+        "data" : [ 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "Feb - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "July - 2021",
+                "cnt" : 4.0
+            }, 
+            {
+                "_date" : "Aug - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Sept - 2020",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Mar - 2021",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "Jan - 2020",
+                "cnt" : 5.0
+            }, 
+            {
+                "_date" : "Oct - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Mar - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Dec - 2020",
+                "cnt" : 4.0
+            }, 
+            {
+                "_date" : "June - 2020",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "May - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "July - 2020",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Dec - 2021",
+                "cnt" : 4.0
+            }, 
+            {
+                "_date" : "Feb - 2020",
+                "cnt" : 6.0
+            }
+        ]
+    },
+    {
+        "_id" : "Enerzest",
+        "data" : [ 
+            {
+                "_date" : "Mar - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "May - 2021",
+                "cnt" : 5.0
+            }
+        ]
+    },
+    {
+        "_id" : "Calendula Cream",
+        "data" : [ 
+            {
+                "_date" : "Aug - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Satistrip plus",
+        "data" : [ 
+            {
+                "_date" : "Nov - 2020",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Sept - 2020",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "Jan - 2021",
+                "cnt" : 4.0
+            }, 
+            {
+                "_date" : "June - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Apr - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Oct - 2020",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "July - 2020",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Dec - 2020",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "Feb - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Aug - 2020",
+                "cnt" : 3.0
+            }
+        ]
+    },
+    {
+        "_id" : "Amlant ",
+        "data" : [ 
+            {
+                "_date" : "Sept - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Sompraz It",
+        "data" : [ 
+            {
+                "_date" : "Oct - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Jan - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Pantal DSR",
+        "data" : [ 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Tresmox LB Kid",
+        "data" : [ 
+            {
+                "_date" : "Mar - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Feb - 2020",
+                "cnt" : 3.0
+            }
+        ]
+    },
+    {
+        "_id" : "Rozaet",
+        "data" : [ 
+            {
+                "_date" : "Mar - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Econorm-",
+        "data" : [ 
+            {
+                "_date" : "July - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "June - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "PRAZOPRESS XR",
+        "data" : [ 
+            {
+                "_date" : "Aug - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Sept - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Gracopix",
+        "data" : [ 
+            {
+                "_date" : "July - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Jan - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "June - 2020",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Dec - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Rosycap-CV",
+        "data" : [ 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Jan - 2020",
+                "cnt" : 2.0
+            }
+        ]
+    },
+    {
+        "_id" : "Febuget/febu ",
+        "data" : [ 
+            {
+                "_date" : "July - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Oct - 2020",
+                "cnt" : 2.0
+            }
+        ]
+    },
+    {
+        "_id" : "Razocid xl",
+        "data" : [ 
+            {
+                "_date" : "Jan - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Feb - 2021",
+                "cnt" : 4.0
+            }
+        ]
+    },
+    {
+        "_id" : "Veenat",
+        "data" : [ 
+            {
+                "_date" : "July - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Dec - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "May - 2020",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "July - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Tolenorm oil ",
+        "data" : [ 
+            {
+                "_date" : "Dec - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Calpol 120",
+        "data" : [ 
+            {
+                "_date" : "Feb - 2021",
+                "cnt" : 30.0
+            }, 
+            {
+                "_date" : "June - 2020",
+                "cnt" : 27.0
+            }, 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Dec - 2021",
+                "cnt" : 38.0
+            }, 
+            {
+                "_date" : "Mar - 2021",
+                "cnt" : 38.0
+            }, 
+            {
+                "_date" : "July - 2020",
+                "cnt" : 13.0
+            }, 
+            {
+                "_date" : "Sept - 2021",
+                "cnt" : 9.0
+            }, 
+            {
+                "_date" : "Aug - 2020",
+                "cnt" : 23.0
+            }, 
+            {
+                "_date" : "May - 2020",
+                "cnt" : 28.0
+            }, 
+            {
+                "_date" : "Apr - 2021",
+                "cnt" : 26.0
+            }, 
+            {
+                "_date" : "Aug - 2021",
+                "cnt" : 25.0
+            }, 
+            {
+                "_date" : "June - 2021",
+                "cnt" : 36.0
+            }, 
+            {
+                "_date" : "Sept - 2020",
+                "cnt" : 25.0
+            }, 
+            {
+                "_date" : "Apr - 2020",
+                "cnt" : 19.0
+            }, 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 18.0
+            }, 
+            {
+                "_date" : "Oct - 2020",
+                "cnt" : 13.0
+            }, 
+            {
+                "_date" : "Jan - 2021",
+                "cnt" : 10.0
+            }, 
+            {
+                "_date" : "Nov - 2020",
+                "cnt" : 10.0
+            }, 
+            {
+                "_date" : "July - 2021",
+                "cnt" : 29.0
+            }, 
+            {
+                "_date" : "May - 2021",
+                "cnt" : 20.0
+            }, 
+            {
+                "_date" : "Oct - 2021",
+                "cnt" : 4.0
+            }, 
+            {
+                "_date" : "Dec - 2020",
+                "cnt" : 12.0
+            }
+        ]
+    },
+    {
+        "_id" : "Abflo N ",
+        "data" : [ 
+            {
+                "_date" : "Feb - 2020",
+                "cnt" : 9.0
+            }, 
+            {
+                "_date" : "June - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Apr - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "July - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Nov - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Mar - 2020",
+                "cnt" : 5.0
+            }, 
+            {
+                "_date" : "May - 2020",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Jan - 2020",
+                "cnt" : 6.0
+            }, 
+            {
+                "_date" : "Aug - 2020",
+                "cnt" : 2.0
+            }
+        ]
+    },
+    {
+        "_id" : "GLUCONORM G3 PLUS",
+        "data" : [ 
+            {
+                "_date" : "Nov - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "ROSUVEL",
+        "data" : [ 
+            {
+                "_date" : "June - 2021",
+                "cnt" : 2.0
+            }
+        ]
+    },
+    {
+        "_id" : "Episert Cream",
+        "data" : [ 
+            {
+                "_date" : "Sept - 2021",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "Oct - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 2.0
+            }
+        ]
+    },
+    {
+        "_id" : "Revelamer",
+        "data" : [ 
+            {
+                "_date" : "Feb - 2020",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "June - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Ace Proxivan",
+        "data" : [ 
+            {
+                "_date" : "July - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Spongia tosta 30",
+        "data" : [ 
+            {
+                "_date" : "Aug - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Sept - 2021",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "July - 2021",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "June - 2021",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "Mar - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "May - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Oct - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Stebar D",
+        "data" : [ 
+            {
+                "_date" : "May - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "May - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Softeron",
+        "data" : [ 
+            {
+                "_date" : "Aug - 2020",
+                "cnt" : 5.0
+            }, 
+            {
+                "_date" : "June - 2020",
+                "cnt" : 16.0
+            }, 
+            {
+                "_date" : "Jan - 2021",
+                "cnt" : 18.0
+            }, 
+            {
+                "_date" : "Nov - 2020",
+                "cnt" : 30.0
+            }, 
+            {
+                "_date" : "Apr - 2021",
+                "cnt" : 36.0
+            }, 
+            {
+                "_date" : "Oct - 2021",
+                "cnt" : 66.0
+            }, 
+            {
+                "_date" : "Apr - 2020",
+                "cnt" : 12.0
+            }, 
+            {
+                "_date" : "Mar - 2021",
+                "cnt" : 38.0
+            }, 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 69.0
+            }, 
+            {
+                "_date" : "Oct - 2020",
+                "cnt" : 20.0
+            }, 
+            {
+                "_date" : "Feb - 2021",
+                "cnt" : 27.0
+            }, 
+            {
+                "_date" : "Sept - 2021",
+                "cnt" : 62.0
+            }, 
+            {
+                "_date" : "Jan - 2020",
+                "cnt" : 40.0
+            }, 
+            {
+                "_date" : "Aug - 2021",
+                "cnt" : 52.0
+            }, 
+            {
+                "_date" : "July - 2021",
+                "cnt" : 57.0
+            }, 
+            {
+                "_date" : "May - 2021",
+                "cnt" : 33.0
+            }, 
+            {
+                "_date" : "Dec - 2020",
+                "cnt" : 46.0
+            }, 
+            {
+                "_date" : "May - 2020",
+                "cnt" : 14.0
+            }, 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 111.0
+            }, 
+            {
+                "_date" : "Mar - 2020",
+                "cnt" : 29.0
+            }, 
+            {
+                "_date" : "July - 2020",
+                "cnt" : 10.0
+            }, 
+            {
+                "_date" : "June - 2021",
+                "cnt" : 48.0
+            }, 
+            {
+                "_date" : "Dec - 2021",
+                "cnt" : 102.0
+            }, 
+            {
+                "_date" : "Sept - 2020",
+                "cnt" : 20.0
+            }, 
+            {
+                "_date" : "Feb - 2020",
+                "cnt" : 38.0
+            }
+        ]
+    },
+    {
+        "_id" : " zitcare or zincolife/cap Ecod plus/cap HH omega",
+        "data" : [ 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "R 21",
+        "data" : [ 
+            {
+                "_date" : "June - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Naturolax Sachet",
+        "data" : [ 
+            {
+                "_date" : "Mar - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Hemact IV +NS 100 ml",
+        "data" : [ 
+            {
+                "_date" : "July - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Septa Q",
+        "data" : [ 
+            {
+                "_date" : "June - 2021",
+                "cnt" : 2.0
+            }
+        ]
+    },
+    {
+        "_id" : "Salace forte",
+        "data" : [ 
+            {
+                "_date" : "Feb - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Flucort+cream fucidin+10%gel aziderm",
+        "data" : [ 
+            {
+                "_date" : "Aug - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : " Cardace",
+        "data" : [ 
+            {
+                "_date" : "June - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Apr - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "ESOGRESS D",
+        "data" : [ 
+            {
+                "_date" : "Apr - 2021",
+                "cnt" : 2.0
+            }, 
+            {
+                "_date" : "Oct - 2021",
+                "cnt" : 3.0
+            }, 
+            {
+                "_date" : "May - 2021",
+                "cnt" : 2.0
+            }
+        ]
+    },
+    {
+        "_id" : "Actoid or acrotac 25mg….tab gemcal….cap koigem",
+        "data" : [ 
+            {
+                "_date" : "Jan - 2022",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Zanocin ",
+        "data" : [ 
+            {
+                "_date" : "Oct - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Acifon SP",
+        "data" : [ 
+            {
+                "_date" : "July - 2020",
+                "cnt" : 1.0
+            }
+        ]
+    },
+    {
+        "_id" : "Refresh eye drops",
+        "data" : [ 
+            {
+                "_date" : "Nov - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Sept - 2021",
+                "cnt" : 1.0
+            }, 
+            {
+                "_date" : "Mar - 2021",
+                "cnt" : 1.0
+            }
+        ]
+    }
+]
