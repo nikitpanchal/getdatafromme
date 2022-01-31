@@ -1,0 +1,2252 @@
+[
+    {
+        "_id" : "Diabetes II",
+        "_data" : [ 
+            {
+                "_id" : "Convistat",
+                "count" : 10937.0
+            }, 
+            {
+                "_id" : "Pioz MF",
+                "count" : 10786.0
+            }, 
+            {
+                "_id" : "Pioz",
+                "count" : 9839.0
+            }, 
+            {
+                "_id" : "Ondero 5",
+                "count" : 8861.0
+            }, 
+            {
+                "_id" : "Glycomet GP",
+                "count" : 8011.0
+            }, 
+            {
+                "_id" : "Gluconorm P",
+                "count" : 6932.0
+            }, 
+            {
+                "_id" : "Glycomet",
+                "count" : 6634.0
+            }, 
+            {
+                "_id" : "Thyronorm",
+                "count" : 5536.0
+            }, 
+            {
+                "_id" : "Ziten -m",
+                "count" : 5494.0
+            }, 
+            {
+                "_id" : "Lantus",
+                "count" : 5486.0
+            }
+        ]
+    },
+    {
+        "_id" : "Diabetes II/unspec.",
+        "_data" : [ 
+            {
+                "_id" : "Ziten -m",
+                "count" : 9586.0
+            }, 
+            {
+                "_id" : "Ramitorva",
+                "count" : 8383.0
+            }, 
+            {
+                "_id" : "Galvus Met",
+                "count" : 8318.0
+            }, 
+            {
+                "_id" : "Dianorm TOTAL",
+                "count" : 7553.0
+            }, 
+            {
+                "_id" : "Convistat",
+                "count" : 7343.0
+            }, 
+            {
+                "_id" : "Glizid mv",
+                "count" : 6756.0
+            }, 
+            {
+                "_id" : "Glycomet GP",
+                "count" : 6519.0
+            }, 
+            {
+                "_id" : "Ziglim Plus",
+                "count" : 6514.0
+            }, 
+            {
+                "_id" : "Rosuless",
+                "count" : 6486.0
+            }, 
+            {
+                "_id" : "Gibtulio 25",
+                "count" : 6301.0
+            }
+        ]
+    },
+    {
+        "_id" : "Acute allergic urti",
+        "_data" : [ 
+            {
+                "_id" : "Rinifol",
+                "count" : 16775.0
+            }, 
+            {
+                "_id" : "Kefpod CV",
+                "count" : 14701.0
+            }, 
+            {
+                "_id" : "Macbery xt",
+                "count" : 10791.0
+            }, 
+            {
+                "_id" : "Odimont fx",
+                "count" : 10420.0
+            }, 
+            {
+                "_id" : "Kefpod 200",
+                "count" : 9766.0
+            }, 
+            {
+                "_id" : "Reswas LS",
+                "count" : 9614.0
+            }, 
+            {
+                "_id" : "Ceaseflam",
+                "count" : 9320.0
+            }, 
+            {
+                "_id" : "Bresol",
+                "count" : 8368.0
+            }, 
+            {
+                "_id" : "Puffomax ls",
+                "count" : 7428.0
+            }, 
+            {
+                "_id" : "Paraclaim ap",
+                "count" : 7237.0
+            }
+        ]
+    },
+    {
+        "_id" : " uncontrolled",
+        "_data" : [ 
+            {
+                "_id" : "Ramitorva",
+                "count" : 8068.0
+            }, 
+            {
+                "_id" : "Ziten -m",
+                "count" : 7223.0
+            }, 
+            {
+                "_id" : "Dianorm TOTAL",
+                "count" : 6952.0
+            }, 
+            {
+                "_id" : "Ziglim Plus",
+                "count" : 6070.0
+            }, 
+            {
+                "_id" : "Glizid mv",
+                "count" : 5734.0
+            }, 
+            {
+                "_id" : "Convistat",
+                "count" : 5444.0
+            }, 
+            {
+                "_id" : "Galvus Met",
+                "count" : 5422.0
+            }, 
+            {
+                "_id" : "Glycomet GP",
+                "count" : 5405.0
+            }, 
+            {
+                "_id" : "Rosuless",
+                "count" : 4976.0
+            }, 
+            {
+                "_id" : "Gibtulio 25",
+                "count" : 4811.0
+            }
+        ]
+    },
+    {
+        "_id" : "TYPE 2 DM",
+        "_data" : [ 
+            {
+                "_id" : "Azneten",
+                "count" : 20328.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 18773.0
+            }, 
+            {
+                "_id" : "Azneten M",
+                "count" : 18325.0
+            }, 
+            {
+                "_id" : "Gluk-Fri",
+                "count" : 14330.0
+            }, 
+            {
+                "_id" : "Saltcal",
+                "count" : 11039.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 10125.0
+            }, 
+            {
+                "_id" : "Dayclazide M40",
+                "count" : 9574.0
+            }, 
+            {
+                "_id" : "Methalbo D3",
+                "count" : 8727.0
+            }, 
+            {
+                "_id" : "Dayflozin",
+                "count" : 8372.0
+            }, 
+            {
+                "_id" : "Pezorpol D",
+                "count" : 6076.0
+            }
+        ]
+    },
+    {
+        "_id" : " w/neurological manifestations",
+        "_data" : [ 
+            {
+                "_id" : "Ramitorva",
+                "count" : 7032.0
+            }, 
+            {
+                "_id" : "Galvus Met",
+                "count" : 6133.0
+            }, 
+            {
+                "_id" : "Ziten -m",
+                "count" : 5449.0
+            }, 
+            {
+                "_id" : "Glizid mv",
+                "count" : 5323.0
+            }, 
+            {
+                "_id" : "Dianorm TOTAL",
+                "count" : 4680.0
+            }, 
+            {
+                "_id" : "Mylamin",
+                "count" : 4127.0
+            }, 
+            {
+                "_id" : "Rosuless",
+                "count" : 3950.0
+            }, 
+            {
+                "_id" : "Glycomet GP",
+                "count" : 3800.0
+            }, 
+            {
+                "_id" : "Ziglim Plus",
+                "count" : 3785.0
+            }, 
+            {
+                "_id" : "Met XL",
+                "count" : 3734.0
+            }
+        ]
+    },
+    {
+        "_id" : " w/o complications",
+        "_data" : [ 
+            {
+                "_id" : "Ziten -m",
+                "count" : 4137.0
+            }, 
+            {
+                "_id" : "Convistat",
+                "count" : 3989.0
+            }, 
+            {
+                "_id" : "Glycomet GP",
+                "count" : 3447.0
+            }, 
+            {
+                "_id" : "Ondero met 2.5/500",
+                "count" : 3432.0
+            }, 
+            {
+                "_id" : "Rosuless",
+                "count" : 3266.0
+            }, 
+            {
+                "_id" : "Dianorm TOTAL",
+                "count" : 3165.0
+            }, 
+            {
+                "_id" : "Meganeuron OD Plus",
+                "count" : 3054.0
+            }, 
+            {
+                "_id" : "Gibtulio 25",
+                "count" : 2989.0
+            }, 
+            {
+                "_id" : "Tripride",
+                "count" : 2818.0
+            }, 
+            {
+                "_id" : "Megavog",
+                "count" : 2738.0
+            }
+        ]
+    },
+    {
+        "_id" : " uncomplicated",
+        "_data" : [ 
+            {
+                "_id" : "Pioz MF",
+                "count" : 3862.0
+            }, 
+            {
+                "_id" : "Pioz",
+                "count" : 3455.0
+            }, 
+            {
+                "_id" : "Cardace Protect",
+                "count" : 3134.0
+            }, 
+            {
+                "_id" : "Glycomet GP",
+                "count" : 2728.0
+            }, 
+            {
+                "_id" : "Gluconorm P",
+                "count" : 2357.0
+            }, 
+            {
+                "_id" : "Glycomet",
+                "count" : 2069.0
+            }, 
+            {
+                "_id" : "Gibtulio met",
+                "count" : 1872.0
+            }, 
+            {
+                "_id" : "Arbitel AV",
+                "count" : 1783.0
+            }, 
+            {
+                "_id" : "Ziten -m",
+                "count" : 1732.0
+            }, 
+            {
+                "_id" : "Dibeta gb",
+                "count" : 1643.0
+            }
+        ]
+    },
+    {
+        "_id" : " unspec.",
+        "_data" : [ 
+            {
+                "_id" : "Thyronorm",
+                "count" : 5621.0
+            }, 
+            {
+                "_id" : "Thyrox",
+                "count" : 4923.0
+            }, 
+            {
+                "_id" : " D well aq",
+                "count" : 2175.0
+            }, 
+            {
+                "_id" : "Pioz MF",
+                "count" : 2031.0
+            }, 
+            {
+                "_id" : "Pioz",
+                "count" : 1884.0
+            }, 
+            {
+                "_id" : "Fortinerv",
+                "count" : 1617.0
+            }, 
+            {
+                "_id" : "Telpress ct",
+                "count" : 1171.0
+            }, 
+            {
+                "_id" : "Eltroxin",
+                "count" : 1165.0
+            }, 
+            {
+                "_id" : "Dibeta gb",
+                "count" : 1133.0
+            }, 
+            {
+                "_id" : "Glycomet",
+                "count" : 1043.0
+            }
+        ]
+    },
+    {
+        "_id" : "DYSLIPIDEMIA ",
+        "_data" : [ 
+            {
+                "_id" : "Gluk-Fri",
+                "count" : 9554.0
+            }, 
+            {
+                "_id" : "Azneten",
+                "count" : 9540.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 8786.0
+            }, 
+            {
+                "_id" : "Azneten M",
+                "count" : 7388.0
+            }, 
+            {
+                "_id" : "Saltcal",
+                "count" : 6667.0
+            }, 
+            {
+                "_id" : "Dayflozin",
+                "count" : 5481.0
+            }, 
+            {
+                "_id" : "Rozution",
+                "count" : 5394.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 4753.0
+            }, 
+            {
+                "_id" : "Dayclazide M40",
+                "count" : 4281.0
+            }, 
+            {
+                "_id" : "Rozution F",
+                "count" : 4078.0
+            }
+        ]
+    },
+    {
+        "_id" : "TYPE 2 DM,DYSLIPIDEMIA",
+        "_data" : [ 
+            {
+                "_id" : "Azneten M",
+                "count" : 6641.0
+            }, 
+            {
+                "_id" : "Rozution 10",
+                "count" : 5884.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 5127.0
+            }, 
+            {
+                "_id" : "Azneten",
+                "count" : 4493.0
+            }, 
+            {
+                "_id" : "Methalbo D3",
+                "count" : 4211.0
+            }, 
+            {
+                "_id" : "Forxiga",
+                "count" : 4043.0
+            }, 
+            {
+                "_id" : "Rozution",
+                "count" : 2917.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 2477.0
+            }, 
+            {
+                "_id" : "Dayclazide M40",
+                "count" : 2360.0
+            }, 
+            {
+                "_id" : "Piopar",
+                "count" : 2290.0
+            }
+        ]
+    },
+    {
+        "_id" : "TYPE 2 DM,HYPERTENSION,DYSLIPIDEMIA",
+        "_data" : [ 
+            {
+                "_id" : "Azneten M",
+                "count" : 6776.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 5739.0
+            }, 
+            {
+                "_id" : "Azneten",
+                "count" : 4723.0
+            }, 
+            {
+                "_id" : "Rozution T",
+                "count" : 4095.0
+            }, 
+            {
+                "_id" : "Forxiga",
+                "count" : 4010.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 3392.0
+            }, 
+            {
+                "_id" : "Methalbo D3",
+                "count" : 3131.0
+            }, 
+            {
+                "_id" : "Dayclazide M40",
+                "count" : 2827.0
+            }, 
+            {
+                "_id" : "Saltcal",
+                "count" : 2601.0
+            }, 
+            {
+                "_id" : "Rozution 10",
+                "count" : 2525.0
+            }
+        ]
+    },
+    {
+        "_id" : "DM",
+        "_data" : [ 
+            {
+                "_id" : "Thyronorm",
+                "count" : 1369.0
+            }, 
+            {
+                "_id" : "Ecosprin AV",
+                "count" : 1202.0
+            }, 
+            {
+                "_id" : "Ecosprin",
+                "count" : 1183.0
+            }, 
+            {
+                "_id" : "Dytor",
+                "count" : 963.0
+            }, 
+            {
+                "_id" : "Sompraz D",
+                "count" : 952.0
+            }, 
+            {
+                "_id" : "Janumet",
+                "count" : 878.0
+            }, 
+            {
+                "_id" : "Lipaglyn",
+                "count" : 871.0
+            }, 
+            {
+                "_id" : "Zincovit",
+                "count" : 778.0
+            }, 
+            {
+                "_id" : "Septa D3",
+                "count" : 767.0
+            }, 
+            {
+                "_id" : "Amaryl",
+                "count" : 766.0
+            }
+        ]
+    },
+    {
+        "_id" : "HTN",
+        "_data" : [ 
+            {
+                "_id" : "Ecosprin AV",
+                "count" : 1582.0
+            }, 
+            {
+                "_id" : "Ecosprin",
+                "count" : 838.0
+            }, 
+            {
+                "_id" : "Telma",
+                "count" : 736.0
+            }, 
+            {
+                "_id" : "Stamlo",
+                "count" : 634.0
+            }, 
+            {
+                "_id" : "Met XL",
+                "count" : 580.0
+            }, 
+            {
+                "_id" : "Dytor",
+                "count" : 523.0
+            }, 
+            {
+                "_id" : "Nexpro RD",
+                "count" : 471.0
+            }, 
+            {
+                "_id" : "Thyronorm ",
+                "count" : 461.0
+            }, 
+            {
+                "_id" : "Zincovit",
+                "count" : 439.0
+            }, 
+            {
+                "_id" : "Thyronorm",
+                "count" : 408.0
+            }
+        ]
+    },
+    {
+        "_id" : "HYPERTENSION",
+        "_data" : [ 
+            {
+                "_id" : "Azneten",
+                "count" : 7046.0
+            }, 
+            {
+                "_id" : "Gluk-Fri",
+                "count" : 6867.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 5888.0
+            }, 
+            {
+                "_id" : "Azneten M",
+                "count" : 5184.0
+            }, 
+            {
+                "_id" : "Saltcal",
+                "count" : 4929.0
+            }, 
+            {
+                "_id" : "Dayflozin",
+                "count" : 3931.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 3919.0
+            }, 
+            {
+                "_id" : "Rozution T",
+                "count" : 3587.0
+            }, 
+            {
+                "_id" : "Dayclazide M40",
+                "count" : 3055.0
+            }, 
+            {
+                "_id" : "Telihep CT",
+                "count" : 2703.0
+            }
+        ]
+    },
+    {
+        "_id" : " w/ unspec. complications",
+        "_data" : [ 
+            {
+                "_id" : "Ziten -m",
+                "count" : 2087.0
+            }, 
+            {
+                "_id" : "Janumet xr cp",
+                "count" : 2048.0
+            }, 
+            {
+                "_id" : "Janumet",
+                "count" : 1932.0
+            }, 
+            {
+                "_id" : "Ramitorva",
+                "count" : 1909.0
+            }, 
+            {
+                "_id" : "Sulisent",
+                "count" : 1881.0
+            }, 
+            {
+                "_id" : "Convistat",
+                "count" : 1816.0
+            }, 
+            {
+                "_id" : " D well aq",
+                "count" : 1762.0
+            }, 
+            {
+                "_id" : "Glipon",
+                "count" : 1737.0
+            }, 
+            {
+                "_id" : "Gibtulio met",
+                "count" : 1301.0
+            }, 
+            {
+                "_id" : "Dianorm TOTAL",
+                "count" : 1282.0
+            }
+        ]
+    },
+    {
+        "_id" : "Hypothyroidism",
+        "_data" : [ 
+            {
+                "_id" : "Thyronorm",
+                "count" : 6990.0
+            }, 
+            {
+                "_id" : "Thyrox",
+                "count" : 4241.0
+            }, 
+            {
+                "_id" : " D well aq",
+                "count" : 2243.0
+            }, 
+            {
+                "_id" : "Tancyvit",
+                "count" : 1754.0
+            }, 
+            {
+                "_id" : "Uthyrox",
+                "count" : 1631.0
+            }, 
+            {
+                "_id" : "Divify ods film",
+                "count" : 1606.0
+            }, 
+            {
+                "_id" : "Eltroxin",
+                "count" : 1107.0
+            }, 
+            {
+                "_id" : "B fit cd",
+                "count" : 1022.0
+            }, 
+            {
+                "_id" : "Thyronorm ",
+                "count" : 864.0
+            }, 
+            {
+                "_id" : "Kefpod CV",
+                "count" : 730.0
+            }
+        ]
+    },
+    {
+        "_id" : "URTI",
+        "_data" : [ 
+            {
+                "_id" : "Lotemp/xt para",
+                "count" : 758.0
+            }, 
+            {
+                "_id" : "Abphylline",
+                "count" : 633.0
+            }, 
+            {
+                "_id" : "Maxtra",
+                "count" : 630.0
+            }, 
+            {
+                "_id" : "Azee",
+                "count" : 534.0
+            }, 
+            {
+                "_id" : "Rapitus",
+                "count" : 475.0
+            }, 
+            {
+                "_id" : "Histafree",
+                "count" : 467.0
+            }, 
+            {
+                "_id" : "Levolin",
+                "count" : 451.0
+            }, 
+            {
+                "_id" : "Zincovit",
+                "count" : 450.0
+            }, 
+            {
+                "_id" : "ZOAMET PED NASAL",
+                "count" : 446.0
+            }, 
+            {
+                "_id" : "Sinarest",
+                "count" : 384.0
+            }
+        ]
+    },
+    {
+        "_id" : "Fever due to acute URTI",
+        "_data" : [ 
+            {
+                "_id" : "Rinifol",
+                "count" : 4359.0
+            }, 
+            {
+                "_id" : "Odimont fx",
+                "count" : 2520.0
+            }, 
+            {
+                "_id" : "Kefpod 200",
+                "count" : 1742.0
+            }, 
+            {
+                "_id" : "Ascoril ls",
+                "count" : 1641.0
+            }, 
+            {
+                "_id" : "Macpod100",
+                "count" : 1638.0
+            }, 
+            {
+                "_id" : "Teczine",
+                "count" : 1630.0
+            }, 
+            {
+                "_id" : "Nutrolin B Plus ",
+                "count" : 1479.0
+            }, 
+            {
+                "_id" : "Ceaseflam",
+                "count" : 1469.0
+            }, 
+            {
+                "_id" : "L montus",
+                "count" : 1323.0
+            }, 
+            {
+                "_id" : "Macbery xt",
+                "count" : 1322.0
+            }
+        ]
+    },
+    {
+        "_id" : " uncomplicated,Hypertension",
+        "_data" : [ 
+            {
+                "_id" : "Pioz MF",
+                "count" : 4213.0
+            }, 
+            {
+                "_id" : "Pioz",
+                "count" : 2864.0
+            }, 
+            {
+                "_id" : "Amnurite ",
+                "count" : 1917.0
+            }, 
+            {
+                "_id" : "Dibeta gb",
+                "count" : 1816.0
+            }, 
+            {
+                "_id" : "Glycomet",
+                "count" : 1712.0
+            }, 
+            {
+                "_id" : "Gluconorm P",
+                "count" : 1563.0
+            }, 
+            {
+                "_id" : "Mac rabonik dsr",
+                "count" : 1501.0
+            }, 
+            {
+                "_id" : "Thyronorm",
+                "count" : 1210.0
+            }, 
+            {
+                "_id" : "Glizid mv",
+                "count" : 1105.0
+            }, 
+            {
+                "_id" : "Besicor",
+                "count" : 1104.0
+            }
+        ]
+    },
+    {
+        "_id" : "TYPE 2 DM,HYPERTENSION",
+        "_data" : [ 
+            {
+                "_id" : "Azneten M",
+                "count" : 3031.0
+            }, 
+            {
+                "_id" : "Azneten",
+                "count" : 2655.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 2420.0
+            }, 
+            {
+                "_id" : "Forxiga",
+                "count" : 1684.0
+            }, 
+            {
+                "_id" : "Methalbo D3",
+                "count" : 1567.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 1537.0
+            }, 
+            {
+                "_id" : "Dayclazide M40",
+                "count" : 1326.0
+            }, 
+            {
+                "_id" : "Rozution T",
+                "count" : 1213.0
+            }, 
+            {
+                "_id" : "Piopar",
+                "count" : 1210.0
+            }, 
+            {
+                "_id" : "Semi reclimet",
+                "count" : 1119.0
+            }
+        ]
+    },
+    {
+        "_id" : "Diabetes II, uncomplicated",
+        "_data" : [ 
+            {
+                "_id" : "Pioz MF",
+                "count" : 2104.0
+            }, 
+            {
+                "_id" : "Pioz",
+                "count" : 2006.0
+            }, 
+            {
+                "_id" : "Gluconorm P",
+                "count" : 1928.0
+            }, 
+            {
+                "_id" : "Dibeta gb",
+                "count" : 1591.0
+            }, 
+            {
+                "_id" : "Glycomet",
+                "count" : 1328.0
+            }, 
+            {
+                "_id" : "Lupinac",
+                "count" : 1307.0
+            }, 
+            {
+                "_id" : "Telrose",
+                "count" : 1176.0
+            }, 
+            {
+                "_id" : "AmNuring",
+                "count" : 1145.0
+            }, 
+            {
+                "_id" : "Glynase MF",
+                "count" : 946.0
+            }, 
+            {
+                "_id" : "Eurepa MF",
+                "count" : 841.0
+            }
+        ]
+    },
+    {
+        "_id" : "Hypertension",
+        "_data" : [ 
+            {
+                "_id" : "Moxovas",
+                "count" : 516.0
+            }, 
+            {
+                "_id" : "Ecosprin AV",
+                "count" : 496.0
+            }, 
+            {
+                "_id" : "Stamlo",
+                "count" : 490.0
+            }, 
+            {
+                "_id" : "Telma",
+                "count" : 390.0
+            }, 
+            {
+                "_id" : "Folvite",
+                "count" : 337.0
+            }, 
+            {
+                "_id" : "Nebistar",
+                "count" : 333.0
+            }, 
+            {
+                "_id" : "Concor",
+                "count" : 312.0
+            }, 
+            {
+                "_id" : "Rosuless",
+                "count" : 304.0
+            }, 
+            {
+                "_id" : "Thyronorm",
+                "count" : 302.0
+            }, 
+            {
+                "_id" : "Rozavel",
+                "count" : 300.0
+            }
+        ]
+    },
+    {
+        "_id" : "Diabetes",
+        "_data" : [ 
+            {
+                "_id" : "Convistat",
+                "count" : 3606.0
+            }, 
+            {
+                "_id" : "Ondero 5",
+                "count" : 2691.0
+            }, 
+            {
+                "_id" : "Sulisent",
+                "count" : 1829.0
+            }, 
+            {
+                "_id" : "Albunil",
+                "count" : 1753.0
+            }, 
+            {
+                "_id" : "Nikoran",
+                "count" : 1410.0
+            }, 
+            {
+                "_id" : "Monotrate",
+                "count" : 1408.0
+            }, 
+            {
+                "_id" : "Arbitel Av",
+                "count" : 1400.0
+            }, 
+            {
+                "_id" : "Cetapin XR",
+                "count" : 1254.0
+            }, 
+            {
+                "_id" : "Fourts B",
+                "count" : 1225.0
+            }, 
+            {
+                "_id" : "Matilda Plus",
+                "count" : 1032.0
+            }
+        ]
+    },
+    {
+        "_id" : "Dyslipidemia",
+        "_data" : [ 
+            {
+                "_id" : "Turbogold",
+                "count" : 2385.0
+            }, 
+            {
+                "_id" : "B fit cd",
+                "count" : 1525.0
+            }, 
+            {
+                "_id" : "Convistat",
+                "count" : 1505.0
+            }, 
+            {
+                "_id" : "Lipaglyn",
+                "count" : 806.0
+            }, 
+            {
+                "_id" : "Adilip",
+                "count" : 658.0
+            }, 
+            {
+                "_id" : " D well aq",
+                "count" : 632.0
+            }, 
+            {
+                "_id" : "B - fit cd",
+                "count" : 616.0
+            }, 
+            {
+                "_id" : "Divify",
+                "count" : 587.0
+            }, 
+            {
+                "_id" : "Zilarta 40",
+                "count" : 586.0
+            }, 
+            {
+                "_id" : "Azpro seeds",
+                "count" : 582.0
+            }
+        ]
+    },
+    {
+        "_id" : "Acute gastroenteritis",
+        "_data" : [ 
+            {
+                "_id" : "Enterolife Aq vial",
+                "count" : 1772.0
+            }, 
+            {
+                "_id" : "Cefizan cv",
+                "count" : 1628.0
+            }, 
+            {
+                "_id" : "Ors l",
+                "count" : 1330.0
+            }, 
+            {
+                "_id" : "Gutshell",
+                "count" : 1311.0
+            }, 
+            {
+                "_id" : "Unibiotics",
+                "count" : 1255.0
+            }, 
+            {
+                "_id" : "Fritopan dsr",
+                "count" : 1168.0
+            }, 
+            {
+                "_id" : "Osmosafe",
+                "count" : 1065.0
+            }, 
+            {
+                "_id" : "SUPERIA",
+                "count" : 1036.0
+            }, 
+            {
+                "_id" : "Cefizan plus",
+                "count" : 1030.0
+            }, 
+            {
+                "_id" : "Unibiotics junior",
+                "count" : 1018.0
+            }
+        ]
+    },
+    {
+        "_id" : "Acid peptic disease",
+        "_data" : [ 
+            {
+                "_id" : "Sucrafil",
+                "count" : 2895.0
+            }, 
+            {
+                "_id" : "Gaviscon",
+                "count" : 1912.0
+            }, 
+            {
+                "_id" : "Esogress D",
+                "count" : 1764.0
+            }, 
+            {
+                "_id" : "Fritopan dsr",
+                "count" : 1179.0
+            }, 
+            {
+                "_id" : "Superia L",
+                "count" : 1026.0
+            }, 
+            {
+                "_id" : "Actapro 100",
+                "count" : 889.0
+            }, 
+            {
+                "_id" : "Sucrafil ",
+                "count" : 730.0
+            }, 
+            {
+                "_id" : "Fortinerv",
+                "count" : 729.0
+            }, 
+            {
+                "_id" : "Nexpro RD",
+                "count" : 636.0
+            }, 
+            {
+                "_id" : " D well aq",
+                "count" : 629.0
+            }
+        ]
+    },
+    {
+        "_id" : "HYPOTHYROIDISM",
+        "_data" : [ 
+            {
+                "_id" : "Thyrox",
+                "count" : 4151.0
+            }, 
+            {
+                "_id" : "Saltcal",
+                "count" : 2361.0
+            }, 
+            {
+                "_id" : "Thyronorm",
+                "count" : 1905.0
+            }, 
+            {
+                "_id" : "Azneten",
+                "count" : 1320.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 1184.0
+            }, 
+            {
+                "_id" : "Gluk-Fri",
+                "count" : 1055.0
+            }, 
+            {
+                "_id" : "Azneten M",
+                "count" : 1030.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 804.0
+            }, 
+            {
+                "_id" : "Thyronorm ",
+                "count" : 737.0
+            }, 
+            {
+                "_id" : "Pezorpol D",
+                "count" : 675.0
+            }
+        ]
+    },
+    {
+        "_id" : "T2DM",
+        "_data" : [ 
+            {
+                "_id" : "Zelglip M Forte ",
+                "count" : 724.0
+            }, 
+            {
+                "_id" : "Panoset DSR",
+                "count" : 462.0
+            }, 
+            {
+                "_id" : "Zelvida",
+                "count" : 445.0
+            }, 
+            {
+                "_id" : "D3 max 60k",
+                "count" : 414.0
+            }, 
+            {
+                "_id" : "Yaxopro Gold",
+                "count" : 364.0
+            }, 
+            {
+                "_id" : "Rejumin  plus ",
+                "count" : 347.0
+            }, 
+            {
+                "_id" : "ZELGLIP M",
+                "count" : 340.0
+            }, 
+            {
+                "_id" : "D3 MAX ",
+                "count" : 329.0
+            }, 
+            {
+                "_id" : "Remylin d",
+                "count" : 317.0
+            }, 
+            {
+                "_id" : "Rejumin Forte ",
+                "count" : 312.0
+            }
+        ]
+    },
+    {
+        "_id" : "Diabetes mellitus type 2",
+        "_data" : [ 
+            {
+                "_id" : "Sulisent",
+                "count" : 3259.0
+            }, 
+            {
+                "_id" : "Convistat",
+                "count" : 2379.0
+            }, 
+            {
+                "_id" : "Telverge",
+                "count" : 1652.0
+            }, 
+            {
+                "_id" : "Glizid mv",
+                "count" : 1612.0
+            }, 
+            {
+                "_id" : "Telverge ch 40/12.5",
+                "count" : 1607.0
+            }, 
+            {
+                "_id" : "Turbovas",
+                "count" : 1471.0
+            }, 
+            {
+                "_id" : "Dianorm TOTAL",
+                "count" : 1461.0
+            }, 
+            {
+                "_id" : "Janumet xr cp",
+                "count" : 1023.0
+            }, 
+            {
+                "_id" : "Bd insulin needle",
+                "count" : 1020.0
+            }, 
+            {
+                "_id" : "Toujeo",
+                "count" : 1019.0
+            }
+        ]
+    },
+    {
+        "_id" : "PERIPHERAL NEUROPATHY",
+        "_data" : [ 
+            {
+                "_id" : "Azneten",
+                "count" : 3699.0
+            }, 
+            {
+                "_id" : "Gluk-Fri",
+                "count" : 3152.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 2986.0
+            }, 
+            {
+                "_id" : "Saltcal",
+                "count" : 2198.0
+            }, 
+            {
+                "_id" : "Dayflozin",
+                "count" : 2018.0
+            }, 
+            {
+                "_id" : "Azneten M",
+                "count" : 1968.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 1946.0
+            }, 
+            {
+                "_id" : "Pezorpol D",
+                "count" : 1374.0
+            }, 
+            {
+                "_id" : "Dayclazide M40",
+                "count" : 1152.0
+            }, 
+            {
+                "_id" : "Rozution CV",
+                "count" : 1028.0
+            }
+        ]
+    },
+    {
+        "_id" : "Diabetes mellitus type 2,Hypertension",
+        "_data" : [ 
+            {
+                "_id" : "Pioz MF",
+                "count" : 1528.0
+            }, 
+            {
+                "_id" : "Ecosprin AV",
+                "count" : 956.0
+            }, 
+            {
+                "_id" : "Glycomet",
+                "count" : 852.0
+            }, 
+            {
+                "_id" : "Pioz",
+                "count" : 828.0
+            }, 
+            {
+                "_id" : "Mixtard",
+                "count" : 798.0
+            }, 
+            {
+                "_id" : "Dibeta gb",
+                "count" : 763.0
+            }, 
+            {
+                "_id" : "Stator",
+                "count" : 734.0
+            }, 
+            {
+                "_id" : "Mylamin",
+                "count" : 732.0
+            }, 
+            {
+                "_id" : "Atorfit Cv",
+                "count" : 672.0
+            }, 
+            {
+                "_id" : "Tazloc AM",
+                "count" : 672.0
+            }
+        ]
+    },
+    {
+        "_id" : "HT",
+        "_data" : [ 
+            {
+                "_id" : "Nebicard SM",
+                "count" : 819.0
+            }, 
+            {
+                "_id" : "Ecosprin AV",
+                "count" : 642.0
+            }, 
+            {
+                "_id" : "Nebicard",
+                "count" : 628.0
+            }, 
+            {
+                "_id" : "Rozavel",
+                "count" : 528.0
+            }, 
+            {
+                "_id" : "Triolmezest",
+                "count" : 441.0
+            }, 
+            {
+                "_id" : "Olmezest AM",
+                "count" : 418.0
+            }, 
+            {
+                "_id" : "Thyronorm",
+                "count" : 402.0
+            }, 
+            {
+                "_id" : "Ecosprin",
+                "count" : 377.0
+            }, 
+            {
+                "_id" : "Tayo 60k",
+                "count" : 301.0
+            }, 
+            {
+                "_id" : "Aztor",
+                "count" : 286.0
+            }
+        ]
+    },
+    {
+        "_id" : "Acute allergic urti ",
+        "_data" : [ 
+            {
+                "_id" : "Rinifol",
+                "count" : 2419.0
+            }, 
+            {
+                "_id" : "Zadonase",
+                "count" : 1043.0
+            }, 
+            {
+                "_id" : "Ceaseflam",
+                "count" : 1028.0
+            }, 
+            {
+                "_id" : "Macbery xt",
+                "count" : 1028.0
+            }, 
+            {
+                "_id" : "VB Pod CV",
+                "count" : 903.0
+            }, 
+            {
+                "_id" : "Zanis AP",
+                "count" : 737.0
+            }, 
+            {
+                "_id" : "Odimont fx",
+                "count" : 720.0
+            }, 
+            {
+                "_id" : "Kefpod CV",
+                "count" : 663.0
+            }, 
+            {
+                "_id" : "Nutrolin B Plus ",
+                "count" : 618.0
+            }, 
+            {
+                "_id" : "Macpod 200",
+                "count" : 598.0
+            }
+        ]
+    },
+    {
+        "_id" : "HYPERTENSION ",
+        "_data" : [ 
+            {
+                "_id" : "Azneten",
+                "count" : 2188.0
+            }, 
+            {
+                "_id" : "Gluk-Fri",
+                "count" : 1886.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 1391.0
+            }, 
+            {
+                "_id" : "Azneten M",
+                "count" : 1346.0
+            }, 
+            {
+                "_id" : "Saltcal",
+                "count" : 1172.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 989.0
+            }, 
+            {
+                "_id" : "Dayflozin",
+                "count" : 975.0
+            }, 
+            {
+                "_id" : "Rozution T",
+                "count" : 962.0
+            }, 
+            {
+                "_id" : "Dayclazide M40",
+                "count" : 822.0
+            }, 
+            {
+                "_id" : "Pezorpol D",
+                "count" : 713.0
+            }
+        ]
+    },
+    {
+        "_id" : " benign",
+        "_data" : [ 
+            {
+                "_id" : "Pioz MF",
+                "count" : 2245.0
+            }, 
+            {
+                "_id" : "Pioz",
+                "count" : 1091.0
+            }, 
+            {
+                "_id" : "Glycomet",
+                "count" : 817.0
+            }, 
+            {
+                "_id" : "Dibeta gb",
+                "count" : 720.0
+            }, 
+            {
+                "_id" : "Glizid mv",
+                "count" : 669.0
+            }, 
+            {
+                "_id" : "Amnurite ",
+                "count" : 622.0
+            }, 
+            {
+                "_id" : "Ondero Met",
+                "count" : 605.0
+            }, 
+            {
+                "_id" : "Cdense",
+                "count" : 443.0
+            }, 
+            {
+                "_id" : "Dianorm TOTAL",
+                "count" : 440.0
+            }, 
+            {
+                "_id" : "Zivast",
+                "count" : 423.0
+            }
+        ]
+    },
+    {
+        "_id" : "Acute enteritis",
+        "_data" : [ 
+            {
+                "_id" : "Drotin DS",
+                "count" : 2067.0
+            }, 
+            {
+                "_id" : "Enterolife Aq vial",
+                "count" : 887.0
+            }, 
+            {
+                "_id" : "Rifaxigress",
+                "count" : 876.0
+            }, 
+            {
+                "_id" : "Bendex",
+                "count" : 874.0
+            }, 
+            {
+                "_id" : "Drotin ",
+                "count" : 866.0
+            }, 
+            {
+                "_id" : "Drotin",
+                "count" : 710.0
+            }, 
+            {
+                "_id" : "Cefolac 100",
+                "count" : 701.0
+            }, 
+            {
+                "_id" : "Orni",
+                "count" : 596.0
+            }, 
+            {
+                "_id" : "Zentel",
+                "count" : 590.0
+            }, 
+            {
+                "_id" : "Rabecure -l",
+                "count" : 584.0
+            }
+        ]
+    },
+    {
+        "_id" : "Essential hypertension",
+        "_data" : [ 
+            {
+                "_id" : "Etizoram",
+                "count" : 1172.0
+            }, 
+            {
+                "_id" : "Concor",
+                "count" : 735.0
+            }, 
+            {
+                "_id" : "Telma CT",
+                "count" : 582.0
+            }, 
+            {
+                "_id" : "Nexovas",
+                "count" : 462.0
+            }, 
+            {
+                "_id" : "Fortinerv",
+                "count" : 441.0
+            }, 
+            {
+                "_id" : "Convistat",
+                "count" : 438.0
+            }, 
+            {
+                "_id" : "CTD",
+                "count" : 422.0
+            }, 
+            {
+                "_id" : " D well aq",
+                "count" : 334.0
+            }, 
+            {
+                "_id" : "Veltam",
+                "count" : 303.0
+            }, 
+            {
+                "_id" : "Zecoba OD",
+                "count" : 300.0
+            }
+        ]
+    },
+    {
+        "_id" : "hypertension and dyslipidemia",
+        "_data" : [ 
+            {
+                "_id" : "Ondero 5",
+                "count" : 2542.0
+            }, 
+            {
+                "_id" : "Convistat",
+                "count" : 2295.0
+            }, 
+            {
+                "_id" : "Albunil",
+                "count" : 1608.0
+            }, 
+            {
+                "_id" : "Monotrate",
+                "count" : 1408.0
+            }, 
+            {
+                "_id" : "Nikoran",
+                "count" : 1408.0
+            }, 
+            {
+                "_id" : "Arbitel Av",
+                "count" : 1400.0
+            }, 
+            {
+                "_id" : "Cetapin XR",
+                "count" : 1254.0
+            }, 
+            {
+                "_id" : "Sulisent",
+                "count" : 1247.0
+            }, 
+            {
+                "_id" : "Fourts B",
+                "count" : 1225.0
+            }, 
+            {
+                "_id" : "Matilda Plus",
+                "count" : 880.0
+            }
+        ]
+    },
+    {
+        "_id" : "Hypertension ",
+        "_data" : [ 
+            {
+                "_id" : "Rabib DSR",
+                "count" : 453.0
+            }, 
+            {
+                "_id" : "Ecosprin AV",
+                "count" : 422.0
+            }, 
+            {
+                "_id" : "Rozucor ASP",
+                "count" : 387.0
+            }, 
+            {
+                "_id" : "Yamcal",
+                "count" : 323.0
+            }, 
+            {
+                "_id" : "Becosules Z",
+                "count" : 317.0
+            }, 
+            {
+                "_id" : "Thyronorm",
+                "count" : 260.0
+            }, 
+            {
+                "_id" : "Pantolam D",
+                "count" : 253.0
+            }, 
+            {
+                "_id" : "Vitanova SG",
+                "count" : 224.0
+            }, 
+            {
+                "_id" : "Ecosprin",
+                "count" : 221.0
+            }, 
+            {
+                "_id" : "Amlovas",
+                "count" : 202.0
+            }
+        ]
+    },
+    {
+        "_id" : "Hypertension, unspec.",
+        "_data" : [ 
+            {
+                "_id" : "Pioz MF",
+                "count" : 1121.0
+            }, 
+            {
+                "_id" : "Gluconorm P",
+                "count" : 1032.0
+            }, 
+            {
+                "_id" : "Lupinac",
+                "count" : 857.0
+            }, 
+            {
+                "_id" : "Pioz",
+                "count" : 851.0
+            }, 
+            {
+                "_id" : "Dibeta gb",
+                "count" : 730.0
+            }, 
+            {
+                "_id" : "Glycomet",
+                "count" : 636.0
+            }, 
+            {
+                "_id" : "AmNuring",
+                "count" : 528.0
+            }, 
+            {
+                "_id" : "Thyronorm",
+                "count" : 523.0
+            }, 
+            {
+                "_id" : "Sobisis forte",
+                "count" : 497.0
+            }, 
+            {
+                "_id" : "Remo",
+                "count" : 451.0
+            }
+        ]
+    },
+    {
+        "_id" : "ANEMIA",
+        "_data" : [ 
+            {
+                "_id" : "Daylon XT",
+                "count" : 2566.0
+            }, 
+            {
+                "_id" : "Azneten",
+                "count" : 2123.0
+            }, 
+            {
+                "_id" : "Azneten M",
+                "count" : 1685.0
+            }, 
+            {
+                "_id" : "Dayclazide MP",
+                "count" : 1612.0
+            }, 
+            {
+                "_id" : "Saltcal",
+                "count" : 1592.0
+            }, 
+            {
+                "_id" : "Gluk-Fri",
+                "count" : 1335.0
+            }, 
+            {
+                "_id" : "Dayclazide M80",
+                "count" : 1167.0
+            }, 
+            {
+                "_id" : "Pezorpol D",
+                "count" : 1005.0
+            }, 
+            {
+                "_id" : "Dayclazide M40",
+                "count" : 911.0
+            }, 
+            {
+                "_id" : "Dayflozin",
+                "count" : 864.0
+            }
+        ]
+    },
+    {
+        "_id" : "Diabetes ",
+        "_data" : [ 
+            {
+                "_id" : "Convistat",
+                "count" : 2061.0
+            }, 
+            {
+                "_id" : "Gluconorm G",
+                "count" : 1472.0
+            }, 
+            {
+                "_id" : "Asar ct",
+                "count" : 1173.0
+            }, 
+            {
+                "_id" : "Asar",
+                "count" : 1021.0
+            }, 
+            {
+                "_id" : "Ondero Met",
+                "count" : 876.0
+            }, 
+            {
+                "_id" : "Zemiglo50",
+                "count" : 737.0
+            }, 
+            {
+                "_id" : "Tancyvit",
+                "count" : 732.0
+            }, 
+            {
+                "_id" : "Amaryl M",
+                "count" : 607.0
+            }, 
+            {
+                "_id" : "Piosafe",
+                "count" : 600.0
+            }, 
+            {
+                "_id" : "Telpress ct 12.5",
+                "count" : 593.0
+            }
+        ]
+    },
+    {
+        "_id" : "Acute gastritis",
+        "_data" : [ 
+            {
+                "_id" : "Ondem MD",
+                "count" : 1180.0
+            }, 
+            {
+                "_id" : "Zifi",
+                "count" : 1018.0
+            }, 
+            {
+                "_id" : "Drotin DS",
+                "count" : 964.0
+            }, 
+            {
+                "_id" : "Sucrafil",
+                "count" : 737.0
+            }, 
+            {
+                "_id" : "Fritopan dsr",
+                "count" : 727.0
+            }, 
+            {
+                "_id" : "Lanfil",
+                "count" : 586.0
+            }, 
+            {
+                "_id" : "Drotin M",
+                "count" : 583.0
+            }, 
+            {
+                "_id" : "Emeset",
+                "count" : 546.0
+            }, 
+            {
+                "_id" : "Ors l",
+                "count" : 439.0
+            }, 
+            {
+                "_id" : "Drotin",
+                "count" : 312.0
+            }
+        ]
+    },
+    {
+        "_id" : "HTN ",
+        "_data" : [ 
+            {
+                "_id" : "Sompraz D",
+                "count" : 415.0
+            }, 
+            {
+                "_id" : "Montair fx",
+                "count" : 413.0
+            }, 
+            {
+                "_id" : "Dolo 650",
+                "count" : 409.0
+            }, 
+            {
+                "_id" : "Ecosprin",
+                "count" : 377.0
+            }, 
+            {
+                "_id" : "Uprise d3 60k",
+                "count" : 366.0
+            }, 
+            {
+                "_id" : "Takzil 40",
+                "count" : 331.0
+            }, 
+            {
+                "_id" : "ZAC D",
+                "count" : 297.0
+            }, 
+            {
+                "_id" : "Benitowa TM",
+                "count" : 266.0
+            }, 
+            {
+                "_id" : "TAKZIL AM 45",
+                "count" : 266.0
+            }, 
+            {
+                "_id" : "Thyronorm",
+                "count" : 238.0
+            }
+        ]
+    },
+    {
+        "_id" : "COVID 19",
+        "_data" : [ 
+            {
+                "_id" : "Doxy",
+                "count" : 1363.0
+            }, 
+            {
+                "_id" : "Ivermect",
+                "count" : 1271.0
+            }, 
+            {
+                "_id" : "Cetrizine",
+                "count" : 1259.0
+            }, 
+            {
+                "_id" : "Vit C",
+                "count" : 1251.0
+            }, 
+            {
+                "_id" : "Famtac",
+                "count" : 1197.0
+            }, 
+            {
+                "_id" : "Zincoplex ",
+                "count" : 1075.0
+            }, 
+            {
+                "_id" : "Ulpan D",
+                "count" : 981.0
+            }, 
+            {
+                "_id" : "VITNEURIN CZS/COBADEX CZS",
+                "count" : 913.0
+            }, 
+            {
+                "_id" : "Limcee",
+                "count" : 727.0
+            }, 
+            {
+                "_id" : "Fabiflu",
+                "count" : 647.0
+            }
+        ]
+    },
+    {
+        "_id" : "LRTI",
+        "_data" : [ 
+            {
+                "_id" : "Levolin",
+                "count" : 596.0
+            }, 
+            {
+                "_id" : "Asthalin respule with oxygen",
+                "count" : 271.0
+            }, 
+            {
+                "_id" : "Pulmoclear",
+                "count" : 199.0
+            }, 
+            {
+                "_id" : "Panoset DSR",
+                "count" : 164.0
+            }, 
+            {
+                "_id" : "Deriphyllin Retard",
+                "count" : 163.0
+            }, 
+            {
+                "_id" : "Asthalin",
+                "count" : 160.0
+            }, 
+            {
+                "_id" : "Montair",
+                "count" : 157.0
+            }, 
+            {
+                "_id" : "Dolo",
+                "count" : 153.0
+            }, 
+            {
+                "_id" : "Reswas LS",
+                "count" : 148.0
+            }, 
+            {
+                "_id" : "Azee",
+                "count" : 146.0
+            }
+        ]
+    },
+    {
+        "_id" : " NOS",
+        "_data" : [ 
+            {
+                "_id" : "Zovirax",
+                "count" : 455.0
+            }, 
+            {
+                "_id" : "Prolomet XL",
+                "count" : 307.0
+            }, 
+            {
+                "_id" : "Clopivas AP",
+                "count" : 293.0
+            }, 
+            {
+                "_id" : "Triohale",
+                "count" : 291.0
+            }, 
+            {
+                "_id" : "Alfoo",
+                "count" : 291.0
+            }, 
+            {
+                "_id" : "Oratil 250",
+                "count" : 290.0
+            }, 
+            {
+                "_id" : "Rosuless 10",
+                "count" : 290.0
+            }, 
+            {
+                "_id" : "Ziten -m",
+                "count" : 290.0
+            }, 
+            {
+                "_id" : "Gabaxia SR",
+                "count" : 290.0
+            }, 
+            {
+                "_id" : "Muply",
+                "count" : 290.0
+            }
+        ]
+    },
+    {
+        "_id" : "Covid 19 positive",
+        "_data" : [ 
+            {
+                "_id" : "Sompraz D",
+                "count" : 3288.0
+            }, 
+            {
+                "_id" : "Dolo 650",
+                "count" : 3283.0
+            }, 
+            {
+                "_id" : "ZAC D",
+                "count" : 3091.0
+            }, 
+            {
+                "_id" : "Uprise d3 60k",
+                "count" : 3069.0
+            }, 
+            {
+                "_id" : "Ivermectol",
+                "count" : 2334.0
+            }, 
+            {
+                "_id" : "Montair fx",
+                "count" : 2278.0
+            }, 
+            {
+                "_id" : "Fabiflu ( Faviparivir)",
+                "count" : 2013.0
+            }, 
+            {
+                "_id" : "Tusq DX Syr",
+                "count" : 1267.0
+            }, 
+            {
+                "_id" : "ZIFI CV",
+                "count" : 1032.0
+            }, 
+            {
+                "_id" : "Zincovit",
+                "count" : 658.0
+            }
+        ]
+    },
+    {
+        "_id" : " uncomplicated,Elevated BP w/o hypertension",
+        "_data" : [ 
+            {
+                "_id" : "Ondero 5",
+                "count" : 2475.0
+            }, 
+            {
+                "_id" : "Injection Apidra",
+                "count" : 2459.0
+            }, 
+            {
+                "_id" : "Arbitel",
+                "count" : 2184.0
+            }, 
+            {
+                "_id" : "Lantus",
+                "count" : 2169.0
+            }, 
+            {
+                "_id" : "Eido",
+                "count" : 1892.0
+            }, 
+            {
+                "_id" : "Nexovas",
+                "count" : 1591.0
+            }, 
+            {
+                "_id" : "Metapro XL",
+                "count" : 1310.0
+            }, 
+            {
+                "_id" : "Convistat(Atorvastatin)",
+                "count" : 1167.0
+            }, 
+            {
+                "_id" : "Glycomet",
+                "count" : 1086.0
+            }, 
+            {
+                "_id" : "Gemcal",
+                "count" : 1019.0
+            }
+        ]
+    }
+]
