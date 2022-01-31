@@ -1,0 +1,932 @@
+[
+    {
+        "_id" : "General/Family Physician",
+        "patients" : 92148.0,
+        "repeat" : 42249.0
+    },
+    {
+        "_id" : "MD Medicine",
+        "patients" : 87325.0,
+        "repeat" : 46768.0
+    },
+    {
+        "_id" : "Orthopedic Surgeon / Orthopedist",
+        "patients" : 57039.0,
+        "repeat" : 28183.0
+    },
+    {
+        "_id" : "Pediatrician",
+        "patients" : 50602.0,
+        "repeat" : 12434.0
+    },
+    {
+        "_id" : "Pulmonologist (Chest Physician)",
+        "patients" : 47866.0,
+        "repeat" : 12412.0
+    },
+    {
+        "_id" : "Diabetologist",
+        "patients" : 44576.0,
+        "repeat" : 15317.0
+    },
+    {
+        "_id" : "Mumbai",
+        "patients" : 41373.0,
+        "repeat" : 36138.0
+    },
+    {
+        "_id" : "Otolaryngologist (ENT Specialist)",
+        "patients" : 39579.0,
+        "repeat" : 16240.0
+    },
+    {
+        "_id" : "Internal Medicine",
+        "patients" : 39308.0,
+        "repeat" : 12207.0
+    },
+    {
+        "_id" : "Ophthalmologist",
+        "patients" : 33237.0,
+        "repeat" : 11753.0
+    },
+    {
+        "_id" : "Cardiologist",
+        "patients" : 24156.0,
+        "repeat" : 13405.0
+    },
+    {
+        "_id" : "Psychiatrist",
+        "patients" : 19651.0,
+        "repeat" : 9274.0
+    },
+    {
+        "_id" : "Dermatologist",
+        "patients" : 14340.0,
+        "repeat" : 4918.0
+    },
+    {
+        "_id" : "Ayurvedic Practioner",
+        "patients" : 10198.0,
+        "repeat" : 553.0
+    },
+    {
+        "_id" : "Orthopedician and Orthopedic surgeon",
+        "patients" : 6569.0,
+        "repeat" : 1308.0
+    },
+    {
+        "_id" : "Surgeon",
+        "patients" : 5636.0,
+        "repeat" : 2249.0
+    },
+    {
+        "_id" : "Consultant Cardiologist & Diabetologist",
+        "patients" : 5186.0,
+        "repeat" : 2550.0
+    },
+    {
+        "_id" : "Endocrinologist",
+        "patients" : 4476.0,
+        "repeat" : 1095.0
+    },
+    {
+        "_id" : "Obstetrician/Gynecologist (OB/GYN)",
+        "patients" : 4181.0,
+        "repeat" : 1341.0
+    },
+    {
+        "_id" : "CRITICAL CARE SPE",
+        "patients" : 3285.0,
+        "repeat" : 1450.0
+    },
+    {
+        "_id" : "cosmetologist ",
+        "patients" : 2047.0,
+        "repeat" : 382.0
+    },
+    {
+        "_id" : "Dentist",
+        "patients" : 1891.0,
+        "repeat" : 377.0
+    },
+    {
+        "_id" : "Homeopathic Doctor",
+        "patients" : 1769.0,
+        "repeat" : 425.0
+    },
+    {
+        "_id" : "Consultant Physician",
+        "patients" : 1728.0,
+        "repeat" : 595.0
+    },
+    {
+        "_id" : "Intensivist",
+        "patients" : 1680.0,
+        "repeat" : 556.0
+    },
+    {
+        "_id" : "Pathologist",
+        "patients" : 1613.0,
+        "repeat" : 608.0
+    },
+    {
+        "_id" : "Neurologist",
+        "patients" : 1317.0,
+        "repeat" : 271.0
+    },
+    {
+        "_id" : "Oncologist",
+        "patients" : 1233.0,
+        "repeat" : 736.0
+    },
+    {
+        "_id" : "Biochemic",
+        "patients" : 1231.0,
+        "repeat" : 603.0
+    },
+    {
+        "_id" : "Urologist",
+        "patients" : 1074.0,
+        "repeat" : 258.0
+    },
+    {
+        "_id" : "physician",
+        "patients" : 1017.0,
+        "repeat" : 795.0
+    },
+    {
+        "_id" : "Laparoscopic Surgeon",
+        "patients" : 920.0,
+        "repeat" : 44.0
+    },
+    {
+        "_id" : "",
+        "patients" : 832.0,
+        "repeat" : 196.0
+    },
+    {
+        "_id" : "General / Family Physician",
+        "patients" : 801.0,
+        "repeat" : 5.0
+    },
+    {
+        "_id" : "Cardio Thoracic Surgeon",
+        "patients" : 780.0,
+        "repeat" : 276.0
+    },
+    {
+        "_id" : "draltamashshaikh.com",
+        "patients" : 773.0,
+        "repeat" : 116.0
+    },
+    {
+        "_id" : "Interventional",
+        "patients" : 507.0,
+        "repeat" : 402.0
+    },
+    {
+        "_id" : "General Medicine ",
+        "patients" : 496.0,
+        "repeat" : 124.0
+    },
+    {
+        "_id" : "MD AYU MEDICINE",
+        "patients" : 456.0,
+        "repeat" : 28.0
+    },
+    {
+        "_id" : "Nephrologist",
+        "patients" : 436.0,
+        "repeat" : 158.0
+    },
+    {
+        "_id" : "Rheumatologist",
+        "patients" : 408.0,
+        "repeat" : 164.0
+    },
+    {
+        "_id" : "Consulting Physician",
+        "patients" : 401.0,
+        "repeat" : 160.0
+    },
+    {
+        "_id" : "Surgical Oncologist ",
+        "patients" : 393.0,
+        "repeat" : 196.0
+    },
+    {
+        "_id" : "Geriatrician",
+        "patients" : 322.0,
+        "repeat" : 88.0
+    },
+    {
+        "_id" : "Medicine",
+        "patients" : 321.0,
+        "repeat" : 137.0
+    },
+    {
+        "_id" : "Gastroenterologist",
+        "patients" : 242.0,
+        "repeat" : 69.0
+    },
+    {
+        "_id" : "Neuro Surgeon",
+        "patients" : 241.0,
+        "repeat" : 53.0
+    },
+    {
+        "_id" : "Dental Surgeon ",
+        "patients" : 232.0,
+        "repeat" : 71.0
+    },
+    {
+        "_id" : "Physician",
+        "patients" : 205.0,
+        "repeat" : 37.0
+    },
+    {
+        "_id" : "General practitioner",
+        "patients" : 142.0,
+        "repeat" : 45.0
+    },
+    {
+        "_id" : "CONSULTING PHYSICIAN",
+        "patients" : 140.0,
+        "repeat" : 66.0
+    },
+    {
+        "_id" : "Physician & Surgeon",
+        "patients" : 127.0,
+        "repeat" : 48.0
+    },
+    {
+        "_id" : "Ayurvedic Practitioner",
+        "patients" : 110.0,
+        "repeat" : 30.0
+    },
+    {
+        "_id" : "General Physician ",
+        "patients" : 109.0,
+        "repeat" : 41.0
+    },
+    {
+        "_id" : "Plastic Surgeon",
+        "patients" : 102.0,
+        "repeat" : 25.0
+    },
+    {
+        "_id" : "MD Physician",
+        "patients" : 96.0,
+        "repeat" : 35.0
+    },
+    {
+        "_id" : "MD",
+        "patients" : 95.0,
+        "repeat" : 7.0
+    },
+    {
+        "_id" : "General surgeon",
+        "patients" : 93.0,
+        "repeat" : 19.0
+    },
+    {
+        "_id" : "Infectious Disease Specialist",
+        "patients" : 89.0,
+        "repeat" : 28.0
+    },
+    {
+        "_id" : "Maxilo Facial Surgeon",
+        "patients" : 89.0,
+        "repeat" : 20.0
+    },
+    {
+        "_id" : "IVF Specialist",
+        "patients" : 75.0,
+        "repeat" : 26.0
+    },
+    {
+        "_id" : "Pulmonary Medicine",
+        "patients" : 73.0,
+        "repeat" : 10.0
+    },
+    {
+        "_id" : "Spine Surgeon",
+        "patients" : 71.0,
+        "repeat" : 11.0
+    },
+    {
+        "_id" : "Regn.no. DMC/R/26309",
+        "patients" : 68.0,
+        "repeat" : 34.0
+    },
+    {
+        "_id" : "General Physician",
+        "patients" : 68.0,
+        "repeat" : 29.0
+    },
+    {
+        "_id" : "Haematologist",
+        "patients" : 68.0,
+        "repeat" : 28.0
+    },
+    {
+        "_id" : "MBBS",
+        "patients" : 65.0,
+        "repeat" : 19.0
+    },
+    {
+        "_id" : "Neuroendocrinologist",
+        "patients" : 61.0,
+        "repeat" : 27.0
+    },
+    {
+        "_id" : "GI SURGEON",
+        "patients" : 54.0,
+        "repeat" : 7.0
+    },
+    {
+        "_id" : "GENERAL SURGEON",
+        "patients" : 48.0,
+        "repeat" : 9.0
+    },
+    {
+        "_id" : "general physician",
+        "patients" : 47.0,
+        "repeat" : 32.0
+    },
+    {
+        "_id" : "General Practitioner",
+        "patients" : 47.0,
+        "repeat" : 8.0
+    },
+    {
+        "_id" : "Vascular Surgeon",
+        "patients" : 46.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "DIABETOLOGY",
+        "patients" : 45.0,
+        "repeat" : 10.0
+    },
+    {
+        "_id" : "ORTHODONTIST",
+        "patients" : 37.0,
+        "repeat" : 4.0
+    },
+    {
+        "_id" : "Face & Mouth Surgeon",
+        "patients" : 37.0,
+        "repeat" : 12.0
+    },
+    {
+        "_id" : "MDS",
+        "patients" : 36.0,
+        "repeat" : 11.0
+    },
+    {
+        "_id" : "General Pediatrics",
+        "patients" : 32.0,
+        "repeat" : 6.0
+    },
+    {
+        "_id" : "Doctor",
+        "patients" : 29.0,
+        "repeat" : 12.0
+    },
+    {
+        "_id" : "Physician Scientist ",
+        "patients" : 26.0,
+        "repeat" : 18.0
+    },
+    {
+        "_id" : "Hepatologist",
+        "patients" : 25.0,
+        "repeat" : 6.0
+    },
+    {
+        "_id" : "General Medicine",
+        "patients" : 23.0,
+        "repeat" : 8.0
+    },
+    {
+        "_id" : "MD Dermatology",
+        "patients" : 23.0,
+        "repeat" : 9.0
+    },
+    {
+        "_id" : "clinical pharmacist",
+        "patients" : 23.0,
+        "repeat" : 4.0
+    },
+    {
+        "_id" : "GENERAL PHYSICIAN",
+        "patients" : 22.0,
+        "repeat" : 7.0
+    },
+    {
+        "_id" : "Pediatric",
+        "patients" : 22.0,
+        "repeat" : 8.0
+    },
+    {
+        "_id" : "Speciality",
+        "patients" : 21.0,
+        "repeat" : 13.0
+    },
+    {
+        "_id" : "Siddha Physician",
+        "patients" : 20.0,
+        "repeat" : 5.0
+    },
+    {
+        "_id" : "consultant proctolog",
+        "patients" : 19.0,
+        "repeat" : 3.0
+    },
+    {
+        "_id" : "CONSULTANT PHYSICIAN",
+        "patients" : 17.0,
+        "repeat" : 9.0
+    },
+    {
+        "_id" : "Assistant professor",
+        "patients" : 14.0,
+        "repeat" : 5.0
+    },
+    {
+        "_id" : "Naturopathy and MBBS",
+        "patients" : 14.0,
+        "repeat" : 3.0
+    },
+    {
+        "_id" : "Anaesthesiologist ",
+        "patients" : 13.0,
+        "repeat" : 5.0
+    },
+    {
+        "_id" : "Physiotherapist",
+        "patients" : 12.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "Dental Surgeon",
+        "patients" : 12.0,
+        "repeat" : 4.0
+    },
+    {
+        "_id" : "Liver Transplant",
+        "patients" : 12.0,
+        "repeat" : 6.0
+    },
+    {
+        "_id" : "Emergency physician ",
+        "patients" : 12.0,
+        "repeat" : 6.0
+    },
+    {
+        "_id" : "Pain Physician ",
+        "patients" : 12.0,
+        "repeat" : 4.0
+    },
+    {
+        "_id" : "AYURVEDACHARYA",
+        "patients" : 11.0,
+        "repeat" : 4.0
+    },
+    {
+        "_id" : "Neonatologist",
+        "patients" : 11.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "MD GM RESIDENT",
+        "patients" : 11.0,
+        "repeat" : 5.0
+    },
+    {
+        "_id" : "Critical care ",
+        "patients" : 11.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "pain management ",
+        "patients" : 8.0,
+        "repeat" : 3.0
+    },
+    {
+        "_id" : "MS",
+        "patients" : 8.0,
+        "repeat" : 6.0
+    },
+    {
+        "_id" : "Glaucoma Specialist",
+        "patients" : 8.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Senior Urologist",
+        "patients" : 7.0,
+        "repeat" : 7.0
+    },
+    {
+        "_id" : "DENTAL SURGEON ",
+        "patients" : 7.0,
+        "repeat" : 4.0
+    },
+    {
+        "_id" : "Consultant physician",
+        "patients" : 7.0,
+        "repeat" : 3.0
+    },
+    {
+        "_id" : "Family physician",
+        "patients" : 7.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Dental surgeon",
+        "patients" : 7.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "MD physician",
+        "patients" : 6.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "cosmetology",
+        "patients" : 6.0,
+        "repeat" : 5.0
+    },
+    {
+        "_id" : "Orthopaedic Surgeon",
+        "patients" : 6.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "Family Physician",
+        "patients" : 6.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "BSMS",
+        "patients" : 6.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "DNB GENERAL MEDICINE",
+        "patients" : 6.0,
+        "repeat" : 4.0
+    },
+    {
+        "_id" : "DPH  MPH ",
+        "patients" : 5.0,
+        "repeat" : 4.0
+    },
+    {
+        "_id" : "SKIN AND COSMETOLOGY",
+        "patients" : 5.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Orthopedic surgeon",
+        "patients" : 5.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "Physical Therapist",
+        "patients" : 5.0,
+        "repeat" : 3.0
+    },
+    {
+        "_id" : " CHILD SPECIALIST",
+        "patients" : 5.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Trichologist",
+        "patients" : 5.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Consultant Physician (MD)",
+        "patients" : 4.0,
+        "repeat" : 3.0
+    },
+    {
+        "_id" : "PHYSIOTHERAPIST",
+        "patients" : 4.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "DM Gastroenterology",
+        "patients" : 4.0,
+        "repeat" : 4.0
+    },
+    {
+        "_id" : "general surgeon",
+        "patients" : 4.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Orthopaedic Surgeon ",
+        "patients" : 4.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Ayurvedic Physician",
+        "patients" : 4.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "Physiotherapy",
+        "patients" : 3.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Sexual Medicine",
+        "patients" : 3.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "dental surgeon",
+        "patients" : 3.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Cosmetic Dermatologi",
+        "patients" : 3.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "Gastro Onco Surgeon",
+        "patients" : 3.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "MBBS ",
+        "patients" : 3.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "General Practitioner ",
+        "patients" : 3.0,
+        "repeat" : 3.0
+    },
+    {
+        "_id" : "general practitioner",
+        "patients" : 3.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "PEDIATRICS",
+        "patients" : 3.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "Immunologist",
+        "patients" : 2.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "Fertility specialist",
+        "patients" : 2.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Siddha Doctor",
+        "patients" : 2.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Radiology",
+        "patients" : 2.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "MD Pathology",
+        "patients" : 2.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "CRITICAL CARE SPEC",
+        "patients" : 2.0,
+        "repeat" : 2.0
+    },
+    {
+        "_id" : "Critical Care",
+        "patients" : 2.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Yoga and  Naturopath",
+        "patients" : 2.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Asst Dental Surgeon",
+        "patients" : 2.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Orthopaedic surgeon ",
+        "patients" : 2.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "PHYSICIAN AYUSH UNIT S E RAILWAY",
+        "patients" : 2.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "physiotherapist",
+        "patients" : 2.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Assistant Professor ",
+        "patients" : 2.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "RMP",
+        "patients" : 1.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Consultant ",
+        "patients" : 1.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Siddha practitioner",
+        "patients" : 1.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Anorectal Disease Sp",
+        "patients" : 1.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Naturopathy ",
+        "patients" : 1.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "speech therapist",
+        "patients" : 1.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "laparoscopic surgeon",
+        "patients" : 1.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "MD Physician D.Diab",
+        "patients" : 1.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Hom Dermatologist",
+        "patients" : 1.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Pediatric Dentist ",
+        "patients" : 1.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Retina specialist",
+        "patients" : 1.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "mbbs",
+        "patients" : 1.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "eye specialist ",
+        "patients" : 1.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : " Eye Surgeon",
+        "patients" : 1.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "Physiotherapist ",
+        "patients" : 1.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "consultant physician",
+        "patients" : 1.0,
+        "repeat" : 1.0
+    },
+    {
+        "_id" : "BHMS",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "dentist",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "neuro psychologist",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Siddha physician ",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Proctologist",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "ENDODONTIST",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "General Dentist",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Endodontist",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Pediatric Surgeon",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "cosmetologist",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "radiodiagnosis",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Veterinarian ",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "physiotherapist ",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "PATHOLOGY",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "naturopath",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "sports Medicine",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "ORTHOPEDIC SURGEON",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "Electrohomeopathy ",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "medical representati",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    },
+    {
+        "_id" : "covid specialist ",
+        "patients" : 0.0,
+        "repeat" : 0.0
+    }
+]
