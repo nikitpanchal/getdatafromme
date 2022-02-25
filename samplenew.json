@@ -3,6 +3,10 @@
              "SpecData": [{
                  "Spec" :  "Cardiologist",
                  "count" : 50
+                 },
+                         {
+                 "Spec" :  "Brain",
+                 "count" : 50
                  }]
              
              }
