@@ -1,12 +1,26 @@
- {
-             "City" : "Mumbai",
-             "SpecData": [{
-                 "Spec" :  "Cardiologist",
-                 "count" : 50
-                 },
-                         {
-                 "Spec" :  "Brain",
-                 "count" : 50
-                 }]
-             
-             }
+[{
+		"Spec": "Cardiologist",
+		"Cities": [{
+				"city": "Mubai",
+				"count": 50
+			},
+			{
+				"city": "Kolkata",
+				"count": 50
+			}
+		]
+	},
+	{
+		"Spec": "Dentis",
+		"Cities": [{
+				"city": "Mubai",
+				"count": 50
+			},
+			{
+				"city": "Kolkata",
+				"count": 50
+			}
+		]
+	}
+
+]
