@@ -1,26 +1,581 @@
-[{
-		"Spec": "Cardiologist",
-		"Cities": [{
-				"city": "Mubai",
-				"count": 50
-			},
-			{
-				"city": "Kolkata",
-				"count": 50
-			}
-		]
-	},
-	{
-		"Spec": "Dentis",
-		"Cities": [{
-				"city": "Mubai",
-				"count": 50
-			},
-			{
-				"city": "Kolkata",
-				"count": 50
-			}
-		]
-	}
-
+/* 1 */
+[
+    {
+        "Spec" : "MD Medicine",
+        "Cities" : [ 
+            {
+                "city" : "Hyderabad",
+                "count" : 61.0
+            }, 
+            {
+                "city" : "Bangalore",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Patna",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Patna ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Navi Mumbai",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Pune",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Shahdol",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Hyderabad ",
+                "count" : 2.0
+            }, 
+            {
+                "city" : "Thane West",
+                "count" : 425.0
+            }, 
+            {
+                "city" : "Chennai",
+                "count" : 4.0
+            }, 
+            {
+                "city" : "Mumbai",
+                "count" : 2437.0
+            }, 
+            {
+                "city" : "Delhi",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Thane",
+                "count" : 1325.0
+            }, 
+            {
+                "city" : "Mumbai ",
+                "count" : 2197.0
+            }, 
+            {
+                "city" : "Pune ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Gwalior",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "New Delhi",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Chennai ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Kolkata",
+                "count" : 4.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Diabetologist",
+        "Cities" : [ 
+            {
+                "city" : "Chennai ",
+                "count" : 47.0
+            }, 
+            {
+                "city" : "Mumbai ",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Bangalore",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Kolkata",
+                "count" : 18.0
+            }, 
+            {
+                "city" : "Hyderabad",
+                "count" : 9.0
+            }, 
+            {
+                "city" : "Bangalore ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Mumbai",
+                "count" : 912.0
+            }, 
+            {
+                "city" : "Patna",
+                "count" : 15.0
+            }, 
+            {
+                "city" : "Pune",
+                "count" : 9.0
+            }, 
+            {
+                "city" : "New Delhi ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Delhi",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Delhi ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Vasai-Virar",
+                "count" : 18.0
+            }, 
+            {
+                "city" : "Chennai",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Thane",
+                "count" : 1313.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Cardiologist",
+        "Cities" : [ 
+            {
+                "city" : "Kolkata",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Mumbai ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "New Delhi ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Hyderabad",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "New Delhi",
+                "count" : 3.0
+            }, 
+            {
+                "city" : "Delhi",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Navi Mumbai",
+                "count" : 513.0
+            }, 
+            {
+                "city" : "Mumbai",
+                "count" : 27.0
+            }, 
+            {
+                "city" : "Thane",
+                "count" : 136.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Internal Medicine",
+        "Cities" : [ 
+            {
+                "city" : "New Delhi",
+                "count" : 3.0
+            }, 
+            {
+                "city" : "Memari",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Kolkata ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Imphal",
+                "count" : 1769.0
+            }, 
+            {
+                "city" : "Kolkata",
+                "count" : 13.0
+            }, 
+            {
+                "city" : "Mumbai",
+                "count" : 465.0
+            }, 
+            {
+                "city" : "Patna",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Kalyani",
+                "count" : 4.0
+            }, 
+            {
+                "city" : "Navi Mumbai",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Mumbai ",
+                "count" : 2.0
+            }, 
+            {
+                "city" : "Thane West",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Hyderabad",
+                "count" : 2.0
+            }, 
+            {
+                "city" : "Pune",
+                "count" : 32.0
+            }, 
+            {
+                "city" : "Hyderabad ",
+                "count" : 62.0
+            }, 
+            {
+                "city" : "Thane",
+                "count" : 35.0
+            }, 
+            {
+                "city" : "Pune ",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Jubilee Hills",
+                "count" : 56.0
+            }, 
+            {
+                "city" : "Bangalore",
+                "count" : 3.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Pulmonologist (Chest Physician)",
+        "Cities" : [ 
+            {
+                "city" : "Kolkata",
+                "count" : 6.0
+            }, 
+            {
+                "city" : "Mumbai",
+                "count" : 489.0
+            }, 
+            {
+                "city" : "Mysore",
+                "count" : 3.0
+            }, 
+            {
+                "city" : "Chennai",
+                "count" : 2.0
+            }, 
+            {
+                "city" : "Pune",
+                "count" : 92.0
+            }, 
+            {
+                "city" : "Hyderabad ",
+                "count" : 10.0
+            }, 
+            {
+                "city" : "Hyderabad",
+                "count" : 28.0
+            }, 
+            {
+                "city" : "Mumbai ",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Chennai ",
+                "count" : 9.0
+            }, 
+            {
+                "city" : "Delhi",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Raipur",
+                "count" : 0.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Homeopathic Doctor",
+        "Cities" : [ 
+            {
+                "city" : "Kolkata",
+                "count" : 18.0
+            }, 
+            {
+                "city" : "Chennai ",
+                "count" : 7.0
+            }, 
+            {
+                "city" : "New Delhi ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "New Delhi",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Pune",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Mumbai ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Chennai",
+                "count" : 6.0
+            }, 
+            {
+                "city" : "Delhi",
+                "count" : 2.0
+            }, 
+            {
+                "city" : "Hyderabad",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Thane",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Mumbai",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Imphal",
+                "count" : 0.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Dermatologist",
+        "Cities" : [ 
+            {
+                "city" : "Bangalore ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Kolkata",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Howrah ",
+                "count" : 49.0
+            }, 
+            {
+                "city" : "Chennai ",
+                "count" : 26.0
+            }, 
+            {
+                "city" : "Adra",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Hyderabad",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Hyderabad ",
+                "count" : 6.0
+            }, 
+            {
+                "city" : "Chennai",
+                "count" : 123.0
+            }, 
+            {
+                "city" : "Navi Mumbai",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Pune",
+                "count" : 2.0
+            }, 
+            {
+                "city" : "Mumbai",
+                "count" : 189.0
+            }, 
+            {
+                "city" : "Delhi",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Patna",
+                "count" : 0.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Psychiatrist",
+        "Cities" : [ 
+            {
+                "city" : "Srinagar",
+                "count" : 8.0
+            }, 
+            {
+                "city" : "Mumbai",
+                "count" : 524.0
+            }, 
+            {
+                "city" : "Thane",
+                "count" : 42.0
+            }, 
+            {
+                "city" : "Raipur",
+                "count" : 3.0
+            }, 
+            {
+                "city" : "Bangalore",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Hyderabad",
+                "count" : 1.0
+            }, 
+            {
+                "city" : "Patna",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Shahdol",
+                "count" : 514.0
+            }, 
+            {
+                "city" : "Cochin",
+                "count" : 10.0
+            }, 
+            {
+                "city" : "New Delhi",
+                "count" : 19.0
+            }, 
+            {
+                "city" : "Navi Mumbai",
+                "count" : 590.0
+            }, 
+            {
+                "city" : "Chennai",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Kolkata",
+                "count" : 288.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Otolaryngologist (ENT Specialist)",
+        "Cities" : [ 
+            {
+                "city" : "New Delhi",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Pune",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Kolkata",
+                "count" : 4.0
+            }, 
+            {
+                "city" : "Bangalore",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Chennai ",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Chennai",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Navi Mumbai",
+                "count" : 5.0
+            }, 
+            {
+                "city" : "Cochin",
+                "count" : 0.0
+            }, 
+            {
+                "city" : "Hyderabad",
+                "count" : 2.0
+            }, 
+            {
+                "city" : "Mumbai",
+                "count" : 1184.0
+            }, 
+            {
+                "city" : "Shahdol",
+                "count" : 238.0
+            }, 
+            {
+                "city" : "Patna",
+                "count" : 0.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Cosmetic Dermatologi",
+        "Cities" : [ 
+            {
+                "city" : "Pashan Pune",
+                "count" : 0.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Consultant Cardiologist & Diabetologist",
+        "Cities" : [ 
+            {
+                "city" : "Mumbai",
+                "count" : 504.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Orthopaedic Surgeon",
+        "Cities" : [ 
+            {
+                "city" : "Hyderabad",
+                "count" : 1.0
+            }
+        ]
+    },
+    {
+        "Spec" : "MD Dermatology",
+        "Cities" : [ 
+            {
+                "city" : "Kolkata",
+                "count" : 4.0
+            }
+        ]
+    },
+    {
+        "Spec" : "Hom Dermatologist",
+        "Cities" : [ 
+            {
+                "city" : "Thane",
+                "count" : 0.0
+            }
+        ]
+    }
 ]
