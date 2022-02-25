@@ -1,0 +1,8 @@
+ {
+             "City" : "Mumbai",
+             "SpecData": [{
+                 "Spec" :  "Cardiologist",
+                 "count" : 50
+                 }]
+             
+             }
